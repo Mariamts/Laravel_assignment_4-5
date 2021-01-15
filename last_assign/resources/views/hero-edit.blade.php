@@ -1,6 +1,5 @@
 @extends('layout')
 
-@section('Edit Employee')
 
 @section('content')
 <div class="card">
